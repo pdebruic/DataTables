@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "DTObject",
+	"category" : "DataTables-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "DTAjax",
+	"type" : "normal"
+}

@@ -1,0 +1,24 @@
+{
+	"instance" : {
+		"initialize" : "EstebanMaringolo 9/15/2014 11:32",
+		"optionAt:" : "EstebanMaringolo 9/15/2014 11:33",
+		"dataSrc:" : "EstebanMaringolo 9/15/2014 17:24",
+		"initializeOptions" : "EstebanMaringolo 9/15/2014 11:32",
+		"columnDefs:" : "EstebanMaringolo 9/18/2014 10:23",
+		"columns" : "EstebanMaringolo 9/18/2014 17:23",
+		"method" : "EstebanMaringolo 9/15/2014 12:44",
+		"respond:" : "EstebanMaringolo 9/18/2014 15:44",
+		"options" : "EstebanMaringolo 9/15/2014 11:33",
+		"ajax" : "EstebanMaringolo 9/15/2014 17:28",
+		"columnDefs" : "EstebanMaringolo 9/18/2014 10:25",
+		"beServerSide" : "EstebanMaringolo 9/15/2014 17:57",
+		"serverSide:" : "EstebanMaringolo 9/15/2014 17:57",
+		"ajax:" : "EstebanMaringolo 9/15/2014 13:17",
+		"deferRender:" : "EstebanMaringolo 9/15/2014 11:55",
+		"languageUrl:" : "EstebanMaringolo 9/17/2014 23:57",
+		"columns:" : "EstebanMaringolo 9/18/2014 14:58",
+		"languageSet:" : "EstebanMaringolo 9/17/2014 23:54",
+		"optionAt:put:" : "EstebanMaringolo 9/15/2014 11:33"
+	},
+	"class" : { }
+}

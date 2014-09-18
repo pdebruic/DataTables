@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "JSObject",
+	"category" : "DataTables-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"options"
+	],
+	"name" : "DTObject",
+	"type" : "normal"
+}

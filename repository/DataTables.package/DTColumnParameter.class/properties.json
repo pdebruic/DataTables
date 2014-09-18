@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "DTObject",
+	"category" : "DataTables-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"parameters",
+		"number"
+	],
+	"name" : "DTColumnParameter",
+	"type" : "normal"
+}
