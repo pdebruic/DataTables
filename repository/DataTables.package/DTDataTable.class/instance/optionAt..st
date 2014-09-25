@@ -1,3 +1,3 @@
 options
-optionAt: aKey 
-	^ self options at: aKey ifAbsent: [  ]
+optionAt: aKey
+	^ self options at: aKey ifAbsent: [ nil ]
