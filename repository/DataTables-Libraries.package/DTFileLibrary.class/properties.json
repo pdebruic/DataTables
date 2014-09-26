@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "WAFileMetadataLibrary",
+	"category" : "DataTables-Libraries",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "DTFileLibrary",
+	"type" : "normal"
+}
