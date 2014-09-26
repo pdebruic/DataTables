@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "JQPlugin",
+	"category" : "DataTables-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "DTDataTable",
+	"type" : "normal"
+}

@@ -1,0 +1,18 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "DataTables-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"draw",
+		"start",
+		"length",
+		"columns",
+		"search",
+		"response"
+	],
+	"name" : "DTAjaxRequest",
+	"type" : "normal"
+}
