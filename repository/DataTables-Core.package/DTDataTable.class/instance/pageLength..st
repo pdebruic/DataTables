@@ -1,3 +1,3 @@
 options
 pageLength: aNumber
-	self optionAt: 'pageLength' put: aNumber
+  self optionAt: 'pageLength' put: aNumber
