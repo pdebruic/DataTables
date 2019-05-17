@@ -1,10 +1,10 @@
 {
 	"instance" : {
-		"includeAllInLengthMenu" : "PaulDeBruicker 9/22/2014 09:36",
 		"fixedHeader:" : "PaulDeBruicker 07/11/2018 11:06",
+		"languageSet:" : "EstebanMaringolo 9/17/2014 23:54",
 		"optionAt:put:" : "EstebanMaringolo 9/15/2014 11:33",
-		"initialize" : "EstebanMaringolo 9/15/2014 11:32",
 		"dataSrc:" : "EstebanMaringolo 9/15/2014 17:24",
+		"initialize" : "EstebanMaringolo 9/15/2014 11:32",
 		"initializeOptions" : "EstebanMaringolo 9/15/2014 11:32",
 		"optionAt:" : "PaulDeBruicker 9/19/2014 16:27",
 		"scrollY:" : "PaulDeBruicker 9/19/2014 16:22",
@@ -13,6 +13,7 @@
 		"order:" : "PaulDeBruicker 9/24/2014 15:33",
 		"columns" : "EstebanMaringolo 9/18/2014 17:23",
 		"method" : "EstebanMaringolo 9/15/2014 12:44",
+		"columnCssClasses:" : "PaulDeBruicker 5/17/2019 08:36",
 		"lengthMenu:" : "PaulDeBruicker 07/11/2018 17:17",
 		"columnDefs" : "EstebanMaringolo 9/18/2014 10:25",
 		"options" : "EstebanMaringolo 9/15/2014 11:33",
@@ -26,14 +27,15 @@
 		"responsive:" : "PaulDeBruicker 9/19/2014 17:03",
 		"languageUrl:" : "EstebanMaringolo 9/17/2014 23:57",
 		"scrollX:" : "PaulDeBruicker 9/19/2014 16:22",
+		"buttons:" : "PaulDeBruicker 5/16/2019 08:30",
 		"pageLength:" : "PaulDeBruicker 07/25/2018 19:59",
 		"info:" : "EstebanMaringolo 9/29/2014 23:51",
 		"ensureDomIncludesTableTools" : "PaulDeBruicker 9/19/2014 16:34",
 		"ensureColumnArrayOfSize:" : "PaulDeBruicker 9/24/2014 15:30",
 		"columns:" : "EstebanMaringolo 9/18/2014 14:58",
 		"paging:" : "PaulDeBruicker 9/19/2014 17:44",
-		"columnSortHelpers:" : "PaulDeBruicker 9/24/2014 15:30",
-		"languageSet:" : "EstebanMaringolo 9/17/2014 23:54"
+		"columnSortHelpers:" : "PaulDeBruicker 5/17/2019 08:33",
+		"includeAllInLengthMenu" : "PaulDeBruicker 9/22/2014 09:36"
 	},
 	"class" : { }
 }

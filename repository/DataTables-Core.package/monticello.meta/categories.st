@@ -1,1 +1,1 @@
-SystemOrganization addCategory: 'DataTables-Core'!
+SystemOrganization addCategory: #'DataTables-Core'!

@@ -8,11 +8,11 @@ columnSortHelpers: anArray
 	
 	If you're going to use this you need to load the code that provides the sort values prior to instantiating your table"
 
-	self ensureColumnArrayOfSize: anArray size.
-	anArray
-		doWithIndex: [ :eachSortType :index | 
-			| columnDetails |
-			eachSortType notNil
-				ifTrue: [ 
-					columnDetails := self columns at: index.
-					columnDetails at: 'orderDataType' put: eachSortType asString ] ]
+	anArray notNil
+		ifTrue: [ self ensureColumnArrayOfSize: anArray size.
+			anArray
+				doWithIndex: [ :eachSortType :index | 
+					| columnDetails |
+					eachSortType notNil
+						ifTrue: [ columnDetails := self columns at: index.
+							columnDetails at: 'orderDataType' put: eachSortType asString ] ] ]
